@@ -1,0 +1,5 @@
+.main-wrap .container-inner .event-box-wrap {
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+}
